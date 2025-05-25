@@ -44,6 +44,9 @@ const printTeacher: printTeacherFunction = (firstName, lastName): string => {
 
 console.log(printTeacher("Williams", "Agbunu")); 
 
+
+
+
 interface StudentClassConstructor {
   firstName: string;
   lastName: string;
